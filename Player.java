@@ -1,3 +1,7 @@
+// Names: Ethan and Talon
+// Date: 11/15/2024
+// Lab: Teddy class
+
 public class Player {
 
 	private String name;
